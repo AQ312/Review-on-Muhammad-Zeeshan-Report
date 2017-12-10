@@ -1,0 +1,6 @@
+This report has a good explanatory part in the Introductory Section. That shows the reader has well renowned knowledge about the mentioned disease.
+But there are some key points that are missing in this report and that can be improved further.
+1) The Font Size & Heading Size must be same in the overall report.
+2) The vey important part of the report "Table of Contents" is missing
+3) The results are not well stated as true or false so the outputs of the given experiments is ambigious (Either your assumptions lead to truth)
+Well! overall report is self-explanatory and good to go.
